@@ -10,6 +10,6 @@
 
 ## Supplemental Figures
 <p align="center" width="100%">
-<video src="https://www.github.com/Tyler-VanDijk/Case-Reports/AHA2026/Echo/TTE_MitralPSLX.mp4" width="80%" controls></video>
+<video src="AHA2026/Echo/TTE_MitralPSLX.mp4" width="80%" controls></video>
 Supplemental Figure 1. A mitral focused PSLX from admission TTE, retrospectively appreciated aortomitral curtain hypodensity is present.
 </p>
