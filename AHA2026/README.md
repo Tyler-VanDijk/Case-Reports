@@ -9,3 +9,7 @@
 6. M. Salem, C. Friedrich, M. Saad, D. Frank, M. Salem, T. Puehler, J. Schoettler, F. Schoeneich, J. Cremer, and A. Haneya, “Active infective native and prosthetic valve endocarditis: short- and long-term outcomes of patients after surgical treatment,” Journal of Clinical Medicine, vol. 10, no. 9, p. 1868, Apr. 2021, doi: 10.3390/jcm10091868. 
 
 ## Supplemental Figures
+<p align="center" width="100%">
+<video src="https://www.github.com/Tyler-VanDijk/Case-Reports/AHA2026/Echo/TTE_MitralPSLX.mp4" width="80%" controls></video>
+Supplemental Figure 1. A mitral focused PSLX from admission TTE, retrospectively appreciated aortomitral curtain hypodensity is present.
+</p>
